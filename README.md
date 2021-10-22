@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
  
  ### Space Invaders :alien:
  - A concept project from studies in Unity Engine. This is a hobby 
- - link https://github.com/MayconRick/Space-Invaders-clone
+ - Project Link https://github.com/MayconRick/Space-Invaders-clone
  
  ### SFSystem :sunny:
  - This is my TCC Project 
