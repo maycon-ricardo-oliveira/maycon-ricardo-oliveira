@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
  - A concept project from studies in Unity Engine. This is a hobby 
  - link https://github.com/MayconRick/Space-Invaders-clone
  
- ### SFSystem :alien:
+ ### SFSystem :sunny:
  - This is my TCC Project 
  - The SFSystem is a system that calculates how many solar panels are needed for a given zip code, 
    in proportion to the average annual cost of the resident.
