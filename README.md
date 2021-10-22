@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
  ### TODO LIST :purple_heart:
  - A project from Ignite course, It is a challenge 
  - This is a Mobile project
- - link https://github.com/MayconRick/ignite_chalenge_1
+ - Project Link https://github.com/MayconRick/ignite_chalenge_1
  
  ### AirCnC :heart:
  - A project from base Air BnB clone
- - link https://github.com/MayconRick/AirCnC-frontend
+ - Project Link https://github.com/MayconRick/AirCnC-frontend
  
  ### Space Invaders :alien:
  - A concept project from studies in Unity Engine. This is a hobby 
@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
  - This is my TCC Project 
  - The SFSystem is a system that calculates how many solar panels are needed for a given zip code, 
    in proportion to the average annual cost of the resident.
- - link https://github.com/MayconRick/estagio-prog
+ - Project Link https://github.com/MayconRick/estagio-prog
