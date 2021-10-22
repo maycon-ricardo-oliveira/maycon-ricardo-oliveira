@@ -2,6 +2,7 @@
 - 👀 I’m interested in Games and Tech
 - 🌱 I’m currently learning ReactJs and React Native
 - 💞️ I’m looking to collaborate on Full Stack Development
+-  :white_check_mark:   I have experience in C, C#, PHP, NodeJS, ReactJs, React Native, SQL, MongoDB. 
 
 <!---
 MayconRick/MayconRick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
