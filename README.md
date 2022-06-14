@@ -1,15 +1,16 @@
-## About Me
+
+<h2 align="left">About Me</h2>
 
 <p align="left">- 👋 Hi, I’m Maycon Oliveira</p>
 <p align="left">- 👀 I’m interested in Games and Tech</p>
-<p align="left">- 🌱 I’m currently learning about **Software Architecture__ and **Clean Architecture**</p>
+<p align="left">- 🌱 I’m currently learning about <b>Software Architecture</b> and <b>Clean Architecture</b></p>
 <p align="left">- 💞️ I’m looking to collaborate on Full Stack Development</p>
 
 ###
 <h2 align="left">My Tech Skills</h2>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="react logo"  />
