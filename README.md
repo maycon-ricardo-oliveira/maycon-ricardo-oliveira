@@ -1,7 +1,8 @@
-###
+## About Me
+
 <p align="left">- 👋 Hi, I’m Maycon Oliveira</p>
 <p align="left">- 👀 I’m interested in Games and Tech</p>
-<p align="left">- 🌱 I’m currently learning about **Software Architecture** and **Clean Architecture**</p>
+<p align="left">- 🌱 I’m currently learning about **Software Architecture__ and **Clean Architecture**</p>
 <p align="left">- 💞️ I’m looking to collaborate on Full Stack Development</p>
 
 ###
@@ -18,9 +19,6 @@
 </div>
 
 ###
-<img href="https://github.com/maycon/maycon/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=maycon" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=maycon" height="150" alt="languages graph"  />
@@ -33,21 +31,18 @@ You can click the Preview link to take a look at your changes.
 
 ## Top My Projects
 
- ### TODO LIST :purple_heart:
- - A project from Ignite course, It is a challenge 
+ ### [TODO LIST](https://github.com/maycon-ricardo-oliveira/ignite_chalenge_1) :purple_heart:
+ - A project from Ignite course by Rocketseat, It is a challenge 
  - This is a Mobile project
- - Project Link https://github.com/maycon-ricardo-oliveira/ignite_chalenge_1
  
- ### AirCnC :heart:
+ ### [AirCnC](https://github.com/maycon-ricardo-oliveira/AirCnC-frontend) :heart:
  - A project from base Air BnB clone
- - Project Link https://github.com/maycon-ricardo-oliveira/AirCnC-frontend
+ - This project is from NLW in Rocketseat event
  
- ### Space Invaders :alien:
+ ### [Space Invaders](https://github.com/maycon-ricardo-oliveira/Space-Invaders-clone) :alien:
  - A concept project from studies in Unity Engine. This is a hobby 
- - Project Link https://github.com/maycon-ricardo-oliveira/Space-Invaders-clone
  
- ### SFSystem :sunny:
- - This is my TCC Project 
+ ### [SFSystem](https://github.com/maycon-ricardo-oliveira/estagio-prog) :sunny:
+ - This is my TCC Project
  - The SFSystem is a system that calculates how many solar panels are needed for a given zip code, 
    in proportion to the average annual cost of the resident.
- - Project Link https://github.com/maycon-ricardo-oliveira/estagio-prog
